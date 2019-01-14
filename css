@@ -1,0 +1,26 @@
+.top-section-calendar{
+    background-position: 0 0;
+   -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height:370px;
+}
+
+.top-section-calendar .text-area{
+    padding: 30px;
+    position:relative;
+    top:180px;
+    left:250px;
+    color:#fff;
+    font-weight:bold;
+    font-size:34px;
+}
+
+.top-section-calendar .text-area h1{
+    font-size:54px;
+    color:#fff;
+    font-weight:bold;
+    line-height:25px;
+    margin-left:0px;
+}
